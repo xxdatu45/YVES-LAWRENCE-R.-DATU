@@ -1,0 +1,211 @@
+# YVES-LAWRENCE-R.-DATU
+
+
+<!DOCTYPE html>
+<html lang="en">
+ <head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+   <link rel="stylesheet" type="text/css" href="style.css">	
+    <title>Resume Form</title>
+ </head>
+ <body>
+  <div>
+   <div id="div_1">
+   	<a href="#" class="div_2 div_3">Home</a>
+   	<a href="bio.html" class="div_2">Bio</a>
+   	<a href="contact.html" class="div_2">Contact</a>
+   </div>	
+   
+   <div class="body-mast">
+    <h1 class="h1-1">Yves Lawrence Datu</h1>
+     <p class="p-1">If i Cannot do</p>
+     <p class="p-2"><b>Great Things.</b></p>
+     <p class="p-3">I can do Small Things</p>
+     <p class="p-4">in a <b>Great Way.</b></p>
+     <p class="p-5"><i>- Martin Luther King JR.</i></p>
+   </div>
+   <img class="img_1" src="1.jpg">
+  </div>
+ </body>
+</html>
+
+
+<!DOCTYPE html>
+<html lang="en">
+ <head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+   <link rel="stylesheet" type="text/css" href="style.css">	
+    <title>Resume Form</title>
+ </head>
+ <body>
+  <div>
+   <div id="div_1">
+   	<a href="index.html" class="div_2 div_3">Home</a>
+   	<a href="#" class="div_2">Bio</a>
+   	<a href="contact.html" class="div_2">Contact</a>
+   </div>
+   <div class="body-mast2">
+    <h1 style="font-family: Arial; margin-left: 340px; color: whitesmoke;">Resume Form</h1>
+     <p style="font-size: 22px; font-family: Arial; margin-left: 40px;"><b>Name</b> : Yves Lawrence Datu &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>Age</b> : 22 </p>
+     <p style="font-size: 22px; font-family: Arial; margin-left: 40px"><b>Address</b> : Blk.5 Lot.3 Sun Flower St. Maria Subd Brgy Dalig Antipolo City</p>
+     <p style="font-size: 22px; font-family: Arial; margin-left: 40px"><b>Birthday</b> : Movember 18 1996  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>Gender</b> : Male</p>
+     <p style="font-size: 22px; font-family: Arial; margin-left: 40px"><b>Religion</b> : Roman Catholic  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>Nationality</b> : Filipino </p>
+     <p style="font-size: 22px; font-family: Arial; margin-left: 40px"><b>Education</b></p>
+     <p style="font-size: 22px; font-family: Arial; margin-left: 170px">Elementary &nbsp;&nbsp; : Colegio de San Antonio</p>
+     <p style="font-size: 22px; font-family: Arial; margin-left: 170px">High-School &nbsp; : Antipolo Immaculate Conception</p>
+     <p style="font-size: 22px; font-family: Arial; margin-left: 170px">College &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; : STI Ortigas Cainta</p>
+     <p style="font-size: 22px; font-family: Arial; margin-left: 40px"><b>Hobby</b> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;   <b>Talent</b></p>
+     <p style="font-size: 22px; font-family: Arial; margin-left: 40px">Jackstone &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Sleeping</p>
+     <p style="font-size: 22px; font-family: Arial; margin-left: 40px">Computer Games &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Programming</p>
+     <p style="font-size: 22px; font-family: Arial; margin-left: 40px"></p>
+     
+
+     
+   </div>
+
+  </div>
+ </body>
+</html>
+
+
+
+<!DOCTYPE html>
+<html lang="en">
+ <head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+   <link rel="stylesheet" type="text/css" href="style.css">	
+    <title>Resume Form</title>
+ </head>
+ <body>
+  <div>
+   <div id="div_1">
+   	<a href="index.html" class="div_2 div_3">Home</a>
+   	<a href="bio.html" class="div_2">Bio</a>
+   	<a href="#" class="div_2">Contact</a>
+   </div>	
+   <div class="body-mast3">
+    <h1 class="h1-2" style="margin-left: 50px; font-family: Arial;">Contact Details</h1>
+    <p class="h1-2" style="margin-left: 50px; font-family: Arial; font-size: 20px;"><b>Facebook : </b> lawrencedatu@gmail.com</p>
+    <p class="h1-2" style="margin-left: 50px; font-family: Arial; font-size: 20px;"><b>Phone Number : </b> 090512349443</p>
+    <p class="h1-2" style="margin-left: 50px; font-family: Arial; font-size: 20px;"><b>Gmail : </b> yveslawrence1896@gmail.com</p>
+   </div>
+   
+  </div>
+ </body>
+</html>
+
+
+body {
+	margin: 0;
+	background: url(img.jpg);
+	background-repeat: no-repeat;
+	background-size: 100%;
+	background-position: relative;
+}
+div {
+	display: block;
+}
+a {
+	text-decoration: none;
+	color: teal;
+	font-family: helvetica;
+	font-size: 50px;
+}
+#div_1 {
+	border: 0px solid #000;
+	margin-top: 10px;
+	height: 60px;
+	width: 92%;
+	margin-left: 4%;
+	margin-top: 2%;
+}
+.div_2 {
+	border: 0gpx solid #000;
+	padding: 0px 15px 3px 20px;
+}
+.div_3 {
+	margin-left: 60%;
+}
+.body-mast3 {
+	border: 1px solid #000;
+	background-color: #000;
+	width: 40%;
+	height: 250px;
+	margin-left: 10%;
+	margin-top: 50px;
+	opacity: 0.5;
+	border-radius: 50px;
+}
+.body-mast2 {
+	border: 0px solid #000;
+	width: 60%;
+	height: 580px;
+	background-color: teal;
+	margin-left: 20%;
+	margin-top: 50px;
+}
+.body-mast {
+	border: 0px solid #000;
+	width: 40%;
+	height: 400px;
+	margin-left: 50%;
+	margin-top: 60px;
+}
+/*************** IMAGES ***********************/
+.img_1 {
+	height: 600px;
+	width: 500px;
+	margin-top: -30%;
+	margin-left: 10%; 
+}
+.img_2 {
+	height: 300px;
+	width: 300px;
+	margin-left: 4%; 
+}
+
+/********************* ALL TEXTS ************************/
+.text_prop1 {
+	font-size: 82px;
+	font-family: helvetica;
+}
+.h1-1 {
+	font-family: helvetica;
+	font-size: 40px;
+	margin-left: 80px;
+}
+.p-1 {
+	font-family: Arial;
+	font-size: 32px;
+	margin-left: 170px;
+}
+.p-2 {
+	font-family: Arial;
+	font-size: 32px;
+	margin-left: 170px;
+	margin-top: -30px;
+}
+.p-3 {
+	font-family: Arial;
+	font-size: 32px;
+	margin-left: 120px;
+	margin-top: -30px;
+}
+.p-4 {
+	font-family: Arial;
+	font-size: 32px;
+	margin-left: 160px;
+	margin-top: -30px;
+}
+.p-5 {
+	font-family: Arial;
+	font-size: 22px;
+	margin-left: 250px;
+	margin-top: 50px;
+}
+.h1-2 {
+	color: white;
+}
